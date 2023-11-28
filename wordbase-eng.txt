@@ -1,0 +1,6 @@
+hello
+telegram
+motorolla
+help
+list
+lisp
